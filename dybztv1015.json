@@ -19,15 +19,6 @@
       "filterable": 1
     },
     {
-     "name": "💽293视频",
-     "key": "csp_SP293",
-     "type": 3,
-     "api": "csp_SP293",
-     "searchable": 1,
-     "quickSearch": 1,
-     "filterable": 1
-    },
-    {
     "key":"APPTT",
     "name":"🗺️图图影视",
     "api":"csp_AppTT",
@@ -35,16 +26,6 @@
     "filterable":1,
     "quickSearch":1,
     "searchable":1
-    },
-    {
-      "key": "KanSJ_spider",
-      "name": "📀看视界🎦",
-      "api": "csp_KanSJ",
-      "type": 3,
-      "filterable": 1,
-      "quickSearch": 1,
-      "searchable": 1,
-      "ext": ""
     },
      {
       "key": "360_spider",
