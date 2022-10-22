@@ -740,14 +740,6 @@
       "searchable": 0,
       "quickSearch": 0
     },
-    {
-      "key": "MBO 影视",
-      "name": "🍹MBO 影视",
-      "type": 0,
-      "api": "https://www.mbomovie.com/api.php/provide/vod/at/xml/",
-      "searchable": 0,
-      "quickSearch": 0
-    }
   ],
   "spider":"https://raw.iqiq.io/swbqm/dybz/main/1019.jar;md5;648653a1067c03abb0ef369a463d7e20",
   "lives": [
