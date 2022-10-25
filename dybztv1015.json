@@ -2,7 +2,7 @@
     "sites": [
         {
             "key": "csp_Kunyu77",
-            "name": "🌤️公众号：大眼宝藏，更新时间：2022年10月24日",
+            "name": "🌤️公众号：大眼宝藏，更新时间：2022年10月25日",
             "type": 3,
             "api": "csp_Kunyu77",
             "searchable": 1,
@@ -1333,7 +1333,7 @@
         },
 	{
             "name": "大眼②线",
-            "type": 0,
+            "type": 1,
             "url": "https://jx.zhanlangbu.com/?url="
         },
         {
@@ -1378,7 +1378,7 @@
 	{
 	    "name": "大眼⑤线",
 	    "type": 1,
-	    "url": "http://chaloli.cn/home/api?type=ys&uid=1942949&key=bfijlnovBCEGHJTV09&url="
+	    "url": "http://chaloli.cn/home/api?type=ys&uid=1942949&key=adeikprtvwyCEJSXY2&url="
 	},
         {
             "name": "大眼⑥线",
@@ -1696,13 +1696,7 @@
                     "leshi",
                     "bilibili",
                     "哔哩哔哩",
-                    "哔哩",
-                    "mgtv",
-                    "芒果",
-                    "sohu",
-                    "xigua",
-                    "fun",
-                    "风行"
+                    "哔哩",大眼
                 ],
                 "header": {
                     "User-Agent": "Mozilla/5.0"
