@@ -10,6 +10,24 @@
             "filterable": 1
         },  
         {
+            "key": "Kuaikan",
+            "name": "🦋快看影视",
+            "type": 3,
+            "api": "csp_Kuaikan",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "APPTT",
+            "name": "🗺️图图影视",
+            "api": "csp_AppTT",
+            "type": 3,
+            "filterable": 1,
+            "quickSearch": 1,
+            "searchable": 1
+        },
+        {
             "key": "360_spider",
             "name": "🌈360影视",
             "api": "csp_SP360",
