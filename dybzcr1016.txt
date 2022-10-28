@@ -4,7 +4,7 @@
 //"spider":"https://yangyang1975.coding.net/p/free/d/mao/git/raw/master/customspider.jar",
 //"spider":"https://yangyang1975.coding.net/p/free/d/mao/git/raw/master/customspider2.jar",
 "sites": [    
-{"key":"*523资源","name":"公众号：大眼宝藏  回复关键词福利重新获取","type":1,"api":"https://caiji.523zyw.com/inc/apijson_vod.php","searchable":0,"quickSearch":1},
+{"key":"*523资源","name":"公众号：大眼宝藏  回复关键词福利重新获取","type":1,"api":"https://caiji.533zyw.com/inc/apijson_vod.php","searchable":0,"quickSearch":1},
 #
 # 推送功能扩展（需v2.1.0.Beta6及以上版本）
 # 需要在配置文件中，加入key为push_agent的站点，数据返回格式和普通爬虫一致
