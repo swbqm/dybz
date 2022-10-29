@@ -500,6 +500,10 @@ CCTV14,http://123.6.9.146/live/jz-cctv-14/live.m3u8
 亲子启蒙,http://lvbaiducdncmn.inter.iqiyi.com/tslive/c57_lb_213_600_t10/c57_lb_213_600_t10.m3u8?key=0f2a06793124310bc21adebc9f02a9735
 熊大过年,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/7ae265653fe149069c3b53e31caaf060/1200.m3u8
 
+🇨🇳｜抖音热舞,#genre#
+抖音小姐姐,http://epg.112114.xyz/douyu/8901218
+抖音大姐姐,http://epg.112114.xyz/douyu/8759139
+
 🇨🇳｜港澳台,#genre#
 
 凤凰卫视,http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8$高清1080P
