@@ -1,8 +1,6 @@
-🇨🇳｜长期维护,#genre#
-10月26日更新,https://share.nite07.com/api/v3/file/source/25538/dybz2.mp4?sign=7t-Pp8iS0LbSla3JQE2V4SL3Lm3kzgmcsp3H6ntgyKY%3D%3A0
-公众号：大眼宝藏,https://share.nite07.com/api/v3/file/source/25535/dybz.mp4?sign=IVjq3oDcq9htKGZtdj_Xl75rH9WMHnZa5kHTUd0zlQ0%3D%3A0
-
 🇨🇳｜央视频道,#genre#
+公众号：大眼宝藏,https://share.nite07.com/api/v3/file/source/27868/dybzlive.mp4?sign=gJTva2D-S69YowDJnhY0bnQJDHD5RN_Y-NgUe4PJkF4%3D%3A0
+
 CCTV1,http://39.134.32.102:6610/270000001111/1110000301/index.m3u8?IASHttpSessionId=OTT$超清1080P
 CCTV1,http://111.20.33.70/PLTV/88888893/224/3221226010/index.m3u8$超清1080P
 CCTV1,http://111.40.196.25/PLTV/88888888/224/3221225548/index.m3u8$超清1080P
