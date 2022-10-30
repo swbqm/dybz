@@ -1,8 +1,17 @@
 {
     "sites": [
         {
+	    "key":"T4_douban",
+	    "name":"🌤️公众号：大眼宝藏，2022-10-30更新",
+	    "type":4,
+	    "api":"http://top.fuqizhishi.com/vod",
+	    "searchable":1,
+	    "quickSearch":1,
+	    "filterable":1
+	},
+        {
             "key": "csp_Kunyu77",
-            "name": "🌤️公众号：大眼宝藏，2022-10-30更新",
+            "name": "🌤️大眼七七",
             "type": 3,
             "api": "csp_Kunyu77",
             "searchable": 1,
