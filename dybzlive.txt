@@ -1,5 +1,5 @@
 🇨🇳｜央视频道,#genre#
-公众号：大眼宝藏,https://share.nite07.com/api/v3/file/source/27868/dybzlive.mp4?sign=gJTva2D-S69YowDJnhY0bnQJDHD5RN_Y-NgUe4PJkF4%3D%3A0
+大眼TV,https://share.nite07.com/api/v3/file/source/27868/dybzlive.mp4?sign=gJTva2D-S69YowDJnhY0bnQJDHD5RN_Y-NgUe4PJkF4%3D%3A0
 
 CCTV1,http://39.134.32.102:6610/270000001111/1110000301/index.m3u8?IASHttpSessionId=OTT$超清1080P
 CCTV1,http://111.20.33.70/PLTV/88888893/224/3221226010/index.m3u8$超清1080P
