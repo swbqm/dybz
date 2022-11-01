@@ -65,17 +65,6 @@
             "ext": "https://raw.iqiq.io/swbqm/dybz/main/json/Nmys.json"
         },
         {
-            "key": "csp_XBPQ极品影视",
-            "name": "🌻极品影视",
-            "type": 3,
-            "api": "csp_xBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://raw.iqiq.io/swbqm/dybz/main/json/极品影视.json",
-            "jar": "https://raw.iqiq.io/swbqm/dybz/main/json/jpys.jar"
-        },
-        {
 	     "key": "py_czspp",
 	     "name": "🏘️厂长(PY)",
 	     "type": 3,
@@ -122,15 +111,6 @@
             "filterable": 1,
             "quickSearch": 1,
             "searchable": 1
-        },
-        {
-            "key": "csp_剧荒",
-            "name": "⛱️剧荒TV",
-            "type": 3,
-            "api": "csp_Juhuang",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
         },
         {
             "key": "追剧喵",
@@ -210,16 +190,6 @@
                 "其他片"
             ]
         },
-         {
-            "key": "csp_XBPQ厂长资源",
-            "name": "厂长影视(XBPQ)",
-            "type":3,
-            "api":"csp_xBPQ",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1,
-            "ext":"https://raw.iqiq.io/swbqm/dybz/main/json/厂长资源.json"
-         }, 
         {
             "key": "LIBVIO",
             "name": "🍲LIBVIO",
@@ -235,15 +205,6 @@
             "name": "📯哔嘀影视",
             "type": 3,
             "api": "csp_Bdys01",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "Smdyy",
-            "name": "🐎神马影院",
-            "type": 3,
-            "api": "csp_Smdyy",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
@@ -277,15 +238,6 @@
             "filterable": 1
         },
         {
-            "key": "csp_Cokemv",
-            "name": "🎀Cokemv",
-            "type": 3,
-            "api": "csp_Cokemv",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
             "key": "csp_Auete",
             "name": "🐼Auete",
             "type": 3,
@@ -302,15 +254,6 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
-        },
-        {
-            "key": "3EDY",
-            "name": "🌴3EDY",
-            "type": 3,
-            "api": "csp_EEEDY",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0
         },
         {
             "key": "csp_Anime1",
