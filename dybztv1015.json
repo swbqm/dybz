@@ -1622,7 +1622,13 @@
                     "leshi",
                     "bilibili",
                     "哔哩哔哩",
-                    "哔哩",大眼
+                    "哔哩",
+                    "mgtv",
+                    "芒果",
+                    "sohu",
+                    "xigua",
+                    "fun",
+                    "风行"
                 ],
                 "header": {
                     "User-Agent": "Mozilla/5.0"
