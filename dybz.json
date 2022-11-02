@@ -67,6 +67,15 @@
             "jar": "https://raw.iqiq.io/swbqm/dyzy/main/json/jpys.jar"
         },
         {
+            "key": "Kuaikan",
+            "name": "快看影视",
+            "type": 3,
+            "api": "csp_Kuaikan",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
 	     "key": "py_czspp",
 	     "name": "厂长(PY)",
 	     "type": 3,
