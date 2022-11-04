@@ -1465,40 +1465,6 @@
             }
         },
         {
-            "name": "大眼⑭线",
-            "url": "https://vip.xuux.icu/home/api?type=ys&uid=1353484&key=efopqwABCLOTVYZ278&url=",
-            "type": 1,
-            "ext": {
-                "flag": [
-                    "qiyi",
-                    "imgo",
-                    "爱奇艺",
-                    "奇艺",
-                    "qq",
-                    "腾讯",
-                    "youku",
-                    "优酷",
-                    "pptv",
-                    "PPTV",
-                    "letv",
-                    "乐视",
-                    "leshi",
-                    "bilibili",
-                    "哔哩哔哩",
-                    "哔哩",
-                    "mgtv",
-                    "芒果",
-                    "sohu",
-                    "xigua",
-                    "fun",
-                    "风行"
-                ],
-                "header": {
-                    "User-Agent": "Mozilla/5.0"
-                }
-            }
-        },
-        {
             "name": "大眼⑮线",
             "url": "https://jx.bynote.top/API.php?url=",
             "type": 1,
