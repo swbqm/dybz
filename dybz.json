@@ -1235,7 +1235,7 @@
         {
           "name": "live",
           "urls": [
-            "proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRsYWIuY29tL3N3YnFtL2R5YnovLS9yYXcvbWFpbi9keWJ6bGl2ZS50eHQ="
+            "proxy://do=live&type=txt&ext=aHR0cHM6Ly9naHByb3h5LmNvbS9odHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vc3dicW0vZHliei9tYWluL2R5YnpsaXZlLnR4dA=="
           ]
         }
       ]
@@ -1589,5 +1589,5 @@
     "cms.qdwght.com"
   ],
   "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
-  "spider": "https://gitlab.com/swbqm/dyzy/-/raw/main/jar/20221104.jar;md5;5724B167958A4E46CE04B226149F39D5"
+  "spider": "https://ghproxy.com/https://raw.githubusercontent.com/swbqm/dyzy/main/jar/20221104.jar;md5;5724B167958A4E46CE04B226149F39D5"
 }
