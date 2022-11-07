@@ -2,7 +2,7 @@
   "sites": [
     {
       "key": "T4_douban",
-      "name": "公众号：大眼宝藏，2022-11-06更新",
+      "name": "公众号：大眼宝藏，2022-11-07更新",
       "type": 4,
       "api": "http://top.fuqizhishi.com/vod",
       "searchable": 1,
