@@ -29,21 +29,11 @@
       "filterable": 1
     },
     {"key":"Fantuan","name":"饭团","type":3,"api":"csp_Fantuan","searchable":1,"quickSearch":1,"filterable":1},
-    {"key":"Tkys","name":"天空影视","type":3,"api":"csp_Tkys","searchable":1,"quickSearch":1,"filterable":1},
     {
       "key": "小苹果",
       "name": "小苹果",
       "type": 3,
       "api": "csp_LiteApple",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "Kuaikan",
-      "name": "快看影视",
-      "type": 3,
-      "api": "csp_Kuaikan",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -56,7 +46,16 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitlab.com/duomv/duo/-/raw/main/json/Nmys.json"
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/box/ext/jwkui9su.json"
+    },
+    {
+      "key": "Kuaikan",
+      "name": "快看影视",
+      "type": 3,
+      "api": "csp_Kuaikan",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
     },
     {
       "key": "csp_XYQ_lu1",
