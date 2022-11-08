@@ -21,7 +21,7 @@
     {"key":"Bttoo","name":"Bttoo","api":"csp_Bttoo","type":3,"filterable":1,"quickSearch":1,"searchable":1},
     {
       "key": "Lezhu_spider",
-      "name": "乐猪影视",
+      "name": "乐猪",
       "type": 3,
       "api": "csp_Lezhu",
       "searchable": 1,
@@ -38,6 +38,7 @@
       "quickSearch": 1,
       "filterable": 1
     },
+    {"key":"Ddrk","name":"低端","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":1},
     {
       "key": "csp_Nmys",
       "name": "农民影视",
@@ -50,7 +51,7 @@
     },
     {
       "key": "Kuaikan",
-      "name": "快看影视",
+      "name": "快看",
       "type": 3,
       "api": "csp_Kuaikan",
       "searchable": 1,
