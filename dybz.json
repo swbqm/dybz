@@ -9,32 +9,32 @@
       "quickSearch": 1,
       "filterable": 1
     },
-    {"key":"Bttoo","name":"Bttoo","api":"csp_Bttoo","type":3,"filterable":1,"quickSearch":1,"searchable":1},
-    {"key":"Fantuan","name":"饭团","type":3,"api":"csp_Fantuan","searchable":1,"quickSearch":1,"filterable":1},
     {
-      "key": "APPTT",
-      "name": "图图影视",
+      "key": "360_spider",
+      "name": "360影视",
       "type": 3,
-      "api": "csp_AppTT",
+      "api": "csp_SP360",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
     },
+    {"key":"Bttoo","name":"Bttoo","api":"csp_Bttoo","type":3,"filterable":1,"quickSearch":1,"searchable":1},
+    {
+      "key": "Lezhu_spider",
+      "name": "乐猪影视",
+      "type": 3,
+      "api": "csp_Lezhu",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {"key":"Fantuan","name":"饭团","type":3,"api":"csp_Fantuan","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"Tkys","name":"天空影视","type":3,"api":"csp_Tkys","searchable":1,"quickSearch":1,"filterable":1},
     {
       "key": "小苹果",
       "name": "小苹果",
       "type": 3,
       "api": "csp_LiteApple",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "Lezhu_spider",
-      "name": "乐猪影视",
-      "type": 3,
-      "api": "csp_Lezhu",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -57,15 +57,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://gitlab.com/duomv/duo/-/raw/main/json/Nmys.json"
-    },
-    {
-      "key": "360_spider",
-      "name": "360影视",
-      "type": 3,
-      "api": "csp_SP360",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
     },
     {
       "key": "csp_XYQ_lu1",
