@@ -762,3 +762,8 @@ Pearl,http://120.84.96.222:808/hls/26/index.m3u8
 福建武夷山玉女峰,http://gcbsc.v.live.baishancdnx.cn/gc/wysynf_1/index.m3u8
 为天使护航,http://gcksc.v.kcdnvip.com/gc/zsslsfwsgz_1/index.m3u8
 为天使护航,http://gcbsc.v.live.baishancdnx.cn/gc/zsslsfwsgz_1/index.m3u8
+
+🇨🇳｜抖音热舞,#genre#
+抖音小姐姐,http://epg.112114.xyz/douyu/8901218
+抖音大姐姐,http://epg.112114.xyz/douyu/8759139
+抖音老阿姨,http://epg.112114.xyz/douyu/7971641
