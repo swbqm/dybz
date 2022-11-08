@@ -41,7 +41,7 @@
     {"key":"Ddrk","name":"低端","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":1},
     {
       "key": "csp_Nmys",
-      "name": "农民影视",
+      "name": "农民",
       "type": 3,
       "api": "csp_Nmys",
       "searchable": 1,
