@@ -20,6 +20,15 @@
     },
     {"key":"Bttoo","name":"Bttoo","api":"csp_Bttoo","type":3,"filterable":1,"quickSearch":1,"searchable":1},
     {"key":"Fantuan","name":"饭团","type":3,"api":"csp_Fantuan","searchable":1,"quickSearch":1,"filterable":1},
+    {
+      "key": "APPTT",
+      "name": "图图影视",
+      "type": 3,
+      "api": "csp_AppTT",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
     {"key":"Zjdr","name":"追剧达人","type":3,"api":"csp_Zjdr","searchable":1,"quickSearch":1,"filterable":1},
     {
       "key": "小苹果",
