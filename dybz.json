@@ -19,7 +19,6 @@
       "filterable": 1
     },
     {"key":"Bttoo","name":"Bttoo","api":"csp_Bttoo","type":3,"filterable":1,"quickSearch":1,"searchable":1},
-    {"key":"Tutu_spider","name":"图图","api":"csp_TutuYs","type":3,"filterable":1,"playerType":2,"quickSearch":1,"searchable":1,"ext":"http://45.207.11.9:6658"},
     {
       "key": "Lezhu_spider",
       "name": "乐猪",
