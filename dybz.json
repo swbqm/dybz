@@ -2,7 +2,7 @@
   "sites": [
     {
       "key": "csp_Kunyu77",
-      "name": "公众号：大眼宝藏，2022-11-11更新",
+      "name": "公众号：大眼宝藏，2022-11-12更新",
       "type": 3,
       "api": "csp_Kunyu77",
       "searchable": 1,
@@ -38,6 +38,7 @@
       "quickSearch": 1,
       "filterable": 1
     },
+    {"key":"Wmkk","name":"完美","type":3,"api":"csp_Wmkk","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"Ddrk","name":"低端","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":1},
     {
       "key": "csp_Nmys",
