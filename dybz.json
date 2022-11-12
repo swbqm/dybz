@@ -38,7 +38,6 @@
       "quickSearch": 1,
       "filterable": 1
     },
-    {"key":"Wmkk","name":"完美","type":3,"api":"csp_Wmkk","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"Ddrk","name":"低端","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":1},
     {
       "key": "csp_Nmys",
