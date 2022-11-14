@@ -9,15 +9,6 @@
       "quickSearch": 1,
       "filterable": 1
     },
-    {
-      "key": "360_spider",
-      "name": "360影视",
-      "type": 3,
-      "api": "csp_SP360",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
     {"key":"Bttoo","name":"Bttoo","api":"csp_Bttoo","type":3,"filterable":1,"quickSearch":1,"searchable":1},
     {
       "key": "Lezhu_spider",
