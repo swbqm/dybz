@@ -72,30 +72,6 @@ CCTV17,http://111.12.110.63:6610/PLTV/77777777/224/3221225513/index.m3u8?
 CCTV17,http://39.134.115.163:8080/PLTV/88888910/224/3221225908/index.m3u8
 CCTV17,http://39.134.115.163:8080/TVOD/88888910/224/3221225908/index.m3u8
 
-CGTN,http://39.134.65.208/PLTV/88888888/224/3221225510/index.m3u8
-冬奥纪实,http://111.20.33.70/PLTV/88888893/224/3221226232/index.m3u8$超清1080P
-CGTN,http://111.20.33.93/TVOD/88888888/224/3221225745/index.m3u8$超清1080P
-CETV1,https://txycsbl.centv.cn/zb/0628cetv1.m3u8$超清1080P
-CETV1,http://111.20.33.93/TVOD/88888888/224/3221225753/index.m3u8$超清1080P
-CETV2,http://111.20.33.93/TVOD/88888888/224/3221225756/index.m3u8$超清1080P
-
-CCTV第一剧场,http://111.32.169.222/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2012514403.m3u8$超清1080P
-CCTV怀旧剧场,http://111.32.169.222/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2012511203.m3u8$超清1080P
-CCTV世界地理,http://111.32.169.222/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2012513303.m3u8$超清1080P
-CCTV文化精品,http://111.32.169.222/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2012513803.m3u8$超清1080P
-CCTV女性时尚,http://111.32.169.222/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2012513903.m3u8$超清1080P
-CCTV风云剧场,http://111.32.169.222/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2012513603.m3u8$超清1080P
-CCTV风云足球,http://111.32.169.222/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2012514203.m3u8$超清1080P
-CCTV风云音乐,http://111.32.169.222/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2012514103.m3u8$超清1080P
-CCTV兵器科技,http://111.32.169.222/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2012513403.m3u8$超清1080P
-CCTV卫生健康,http://111.32.169.222/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2012513503.m3u8$超清1080P
-CCTV高尔夫网球,http://111.32.169.222/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2012512503.m3u8$超清1080P
-CCTV怀旧剧场,http://111.32.169.222/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2012511203.m3u8$高清720P
-CCTV世界地理,http://111.32.169.222/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2012513303.m3u8$超清1080P
-CCTV移动,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/649e19038fa74514ab3f00febbcd6de0/1200.m3u8$超清1080P
-发现之旅,http://111.20.33.70/PLTV/88888893/224/3221226235/index.m3u8$高清720P
-老故事,http://111.20.33.70/PLTV/88888893/224/3221226236/index.m3u8$高清720P
-
 🇨🇳｜卫视频道,#genre#
 凤凰资讯,http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8
 凤凰中文,http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
@@ -466,15 +442,11 @@ Pearl,http://120.84.96.222:808/hls/26/index.m3u8
 
 🇨🇳｜体育频道,#genre#
 咪咕体育,http://39.135.134.67/000000001000/3000000001000028638/index.m3u8
-五星体育,http://111.40.196.25/PLTV/88888888/224/3221225503/index.m3u8
-广东体育,http://183.63.15.42:9901/tsfile/live/0136_1.m3u8
-广东体育,http://e59abdd420c65d43cc1550d493a88c71.v.smtcdns.net/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel34/2300.m3u8
 魅力足球,http://183.207.255.188/live/program/live/mlyyhd/4000000/mnf.m3u8
-超级体育,http://39.134.115.163:8080/PLTV/88888910/224/3221225622/index.m3u8
-新视觉,http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8
 新视觉,http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8
 新视觉,http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8?zshangd
-极速汽车体育,http://183.207.255.188/live/program/live/jsqchd/4000000/mnf.m3u8
+超级体育,http://39.134.115.163:8080/PLTV/88888910/224/3221225622/index.m3u8
+广东体育,http://e59abdd420c65d43cc1550d493a88c71.v.smtcdns.net/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel34/2300.m3u8
 安徽综艺体育,http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3/hls.m3u8
 
 🇨🇳｜少儿动画,#genre#
