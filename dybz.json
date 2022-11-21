@@ -1,8 +1,9 @@
 {
   "sites": [
+    {"key":"YQK_spider","name":"公众号：大眼宝藏，2022-11-21更新","api":"csp_YQKAPP","type":3,"filterable":1,"playerType":2,"quickSearch":1,"searchable":1,"ext":"https://api-tx.shumaxc.xyz"},	  
     {
       "key": "csp_Kunyu77",
-      "name": "公众号：大眼宝藏，2022-11-20更新",
+      "name": "七七",
       "type": 3,
       "api": "csp_Kunyu77",
       "searchable": 1,
@@ -19,7 +20,8 @@
       "quickSearch": 1,
       "filterable": 1
     },
-    {"key":"AppTT","name":"图图","type":3,"api":"csp_AppTT","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
+    {"key":"Tutu_spider","name":"图图","api":"csp_TutuYs","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"http://45.207.11.9:6618"},
+    {"key":"百影视频","name":"百影","type":3,"api":"csp_MianHua","searchable":1,"playerType":2,"quickSearch":1,"filterable":0,"ext":"http://47.104.99.175"},
     {
       "key": "小苹果",
       "name": "小苹果",
