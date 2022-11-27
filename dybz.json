@@ -1,9 +1,8 @@
 {
-  "sites": [
-    {"key":"YQK_spider","name":"公众号：大眼宝藏，2022-11-21更新","api":"csp_YQKAPP","type":3,"filterable":1,"playerType":2,"quickSearch":1,"searchable":1,"ext":"https://api-tx.shumaxc.xyz"},	  
+  "sites": [	  
     {
       "key": "csp_Kunyu77",
-      "name": "七七",
+      "name": "公众号：大眼宝藏，2022-11-27更新",
       "type": 3,
       "api": "csp_Kunyu77",
       "searchable": 1,
