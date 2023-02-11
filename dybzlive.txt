@@ -4777,7 +4777,7 @@ pelangi,http://w.nasvpn.xyz:8080/live/saya/saya/13853.ts?blog.ntnas.top
 harmoni,http://w.nasvpn.xyz:8080/live/saya/saya/13854.ts?blog.ntnas.top
 
 
-🎎日本频道,#genre#
+🎎日本频道_6668,#genre#
 NHKWorld,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
 NHKWorld,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 Animax,https://livecdn.fptplay.net/hda3/animaxport_hls.smil/playlist.m3u8
@@ -4811,7 +4811,7 @@ Shop Channel,https://stream3.shopch.jp/HLS/master.m3u8
 日本购物3,http://stream1.shopch.jp/HLS/out3/prog_index.m3u8
 日本购物4,http://stream1.shopch.jp/HLS/out4/prog_index.m3u8
 
-🎈韩国频道,#genre#
+🎈韩国频道_6668,#genre#
 ArirangTV,http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 ArirangTV,http://amdlive-ch02.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 ArirangTV,http://amdlive-ch03.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
