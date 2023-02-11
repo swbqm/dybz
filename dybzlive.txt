@@ -1,8 +1,3 @@
-🇨🇳｜抖音热舞,#genre#
-抖音小姐姐,http://epg.112114.xyz/douyu/8901218
-抖音大姐姐,http://epg.112114.xyz/douyu/8759139
-抖音老阿姨,http://epg.112114.xyz/douyu/7971641
-
 🇨🇳｜大眼宝藏,#genre#
 大眼TV,http://52bsj.vip:81/api/v3/file/get/61500/dybzlive.mp4?sign=INMtI7iFzHokDp-dQGLm2kRaN5txEG8VV0_37Cgw5MU%3D%3A0
 大眼TV,https://share.nite07.com/api/v3/file/source/29379/dybzlive.mp4?sign=XTRkWlORs9D5KntkASRVehfu2nLeH6_DjL_Cg430z-E%3D%3A0
@@ -742,6 +737,12 @@ VIUTV 6,http://137.175.36.206:8188/viusix_twn/playlist.m3u8?tid=MC6C141237661412
 三沙卫视,https://pullsstv90080111.ssws.tv/live/SSTV20220729.m3u8
 西藏卫视,http://39.135.138.60:18890/PLTV/88888910/224/3221225723/index.m3u8
 海南卫视,http://39.135.138.60:18890/PLTV/88888910/224/3221225722/index.m3u8
+
+🇨🇳｜抖音热舞,#genre#
+抖音小姐姐,http://epg.112114.xyz/douyu/8901218
+抖音大姐姐,http://epg.112114.xyz/douyu/8759139
+抖音老阿姨,http://epg.112114.xyz/douyu/7971641
+
 📺8M专区,#genre#
 CCTV1 8M,http://223.109.53.39/liveplay-kk.rtxapp.com/live/program/live/cctv1hd8m/8000000/mnf.m3u8
 CCTV2 8M,http://223.109.53.39/liveplay-kk.rtxapp.com/live/program/live/cctv2hd8m/8000000/mnf.m3u8
