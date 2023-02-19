@@ -336,16 +336,6 @@
       "ext": "https://yydsys.top/duo/json/%E9%AA%9A%E7%81%AB%E7%94%B5%E5%BD%B1.json"
     },
     {
-      "key": "XBPQ_HDIK",
-      "name": "🍬HDIK影视",
-      "type": 3,
-      "api": "csp_xBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://yydsys.top/duo/json/HDIK.json"
-    },
-    {
       "key": "csp_xBPQ_电影天堂",
       "name": "🏖电影天堂",
       "type": 3,
@@ -360,24 +350,6 @@
       "name": "💥哔嘀(SP)",
       "type": 3,
       "api": "csp_Bdys01",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "csp_Cokemv",
-      "name": "🎀Cokemv",
-      "type": 3,
-      "api": "csp_Cokemv",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
-      "key": "csp_Auete",
-      "name": "🐼Auete",
-      "type": 3,
-      "api": "csp_Auete",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
