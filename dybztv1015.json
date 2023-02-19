@@ -326,16 +326,6 @@
       ]
     },
     {
-      "key": "csp_biubiu_骚火电影",
-      "name": "🔥骚火电影",
-      "type": 3,
-      "api": "csp_xBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://yydsys.top/duo/json/%E9%AA%9A%E7%81%AB%E7%94%B5%E5%BD%B1.json"
-    },
-    {
       "key": "csp_xBPQ_电影天堂",
       "name": "🏖电影天堂",
       "type": 3,
@@ -583,56 +573,6 @@
       "filterable": 0,
       "ext": "https://yydsys.top/duo/js/哔哩直播.js"
     },	
-    {
-      "key": "py_huya",
-      "name": "🐯虎牙(PY)",
-      "type": 3,
-      "api": "py_huya",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://yydsys.top/duo/json/pyhuya.py"
-    },
-    {
-      "key": "csp_XYQHiker_虎牙直播",
-      "name": "🐯虎牙直播",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "https://yydsys.top/duo/json/%E8%99%8E%E7%89%99.json"
-    },
-    {
-      "key": "py_douyu",
-      "name": "🦈斗鱼(PY)",
-      "type": 3,
-      "api": "py_douyu",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://yydsys.top/duo/json/pydouyu.py"
-    },
-    {
-      "key": "csp_biubiu_斗鱼",
-      "name": "🦈斗鱼(XB)",
-      "type": 3,
-      "api": "csp_xBPQ",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "https://yydsys.top/duo/json/%E6%96%97%E9%B1%BC.json"
-    },	
-    {
-      "key": "网易CC",
-      "name": "🐠网易CC",
-      "type": 3,
-      "api": "csp_XYQBiu",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "https://yydsys.top/duo/json/%E7%BD%91%E6%98%93CC.json"
-    },
     {
       "key": "csp_xpath_kuqimv",
       "name": "🎤酷奇MV",
