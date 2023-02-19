@@ -363,15 +363,6 @@
       "quickSearch": 1,
       "filterable": 1
     },
-    {
-      "key": "csp_Anime1",
-      "name": "🌸动漫系列",
-      "type": 3,
-      "api": "csp_Anime1",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
 	{
       "key":"js路漫漫",
       "name":"👩‍🎨路漫漫",
@@ -381,56 +372,6 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1
-    },
-    {
-      "key": "去看动漫",
-      "name": "🎊去看动漫",
-      "type": 3,
-      "api": "csp_xBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://yydsys.top/duo/json/%E5%8E%BB%E7%9C%8B%E5%8A%A8%E6%BC%AB.json"
-    },
-    {
-      "key": "动漫直链",
-      "name": "🎭动漫直链",
-      "type": 3,
-      "api": "csp_XPath",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://yydsys.top/duo/json/%E5%8A%A8%E6%BC%AB%E7%9B%B4%E9%93%BE.json"
-    },
-    {
-      "key": "csp_biubiu_风车动漫",
-      "name": "🍭风车动漫",
-      "type": 3,
-      "api": "csp_xBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://yydsys.top/duo/json/%E9%A3%8E%E8%BD%A6%E5%8A%A8%E6%BC%AB.json"
-    },
-    {
-      "key": "csp_xpath___动漫巴士",
-      "name": "🤖动漫巴士",
-      "type": 3,
-      "api": "csp_XPath",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://yydsys.top/duo/json/%E5%8A%A8%E6%BC%AB%E5%B7%B4%E5%A3%AB.json"
-    },
-    {
-      "key": "py_qie",
-      "name": "🏀企鹅体育",
-      "type": 3,
-      "api": "py_qie",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://yydsys.top/duo/json/qie.py"
     },
     {
       "key": "csp_XPath_鹅直播",
@@ -443,13 +384,6 @@
       "ext": "https://yydsys.top/duo/json/qie.json"
     },
     {
-	  "key":"drpy_js_310直播",
-	  "name":"🥎310直播",
-	  "type":3,
-	  "api":"https://jihulab.com/duomv/duo/-/raw/main/js/drpymin.js",
-	  "ext":"https://yydsys.top/duo/js/310.js"
-	},
-    {
       "key": "dr_88看球",
       "name": "🏀88看球",
       "type": 3,
@@ -459,30 +393,6 @@
       "filterable": 0,
       "ext": "https://yydsys.top/duo/js/88看球.js"
     },	
-    {
-	  "key":"drpy_js_JRS直播",
-	  "name":"⚽JRS直播",
-	  "type":3,
-	  "api":"https://jihulab.com/duomv/duo/-/raw/main/js/drpymin.js",
-	  "ext":"https://yydsys.top/duo/js/jrslive.js"
-	},	
-    {
-	   "key":"drpy_js_JRKAN直播",
-	   "name":"🥎JRKAN看球",
-	   "type":3,
-	   "api":"https://jihulab.com/duomv/duo/-/raw/main/js/drpymin.js",
-	   "ext":"https://yydsys.top/duo/js/jrs看球.js"
-	},	
-    {
-      "key": "dr_JRKAN直播",
-      "name": "🏀JRK直播",
-      "type": 3,
-      "api": "https://jihulab.com/duomv/duo/-/raw/main/js/drpymin.js",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "https://yydsys.top/duo/js/JRKAN.js"
-    },
     {
       "key": "drpy_js_抓饭体育",
       "name": "⚽抓饭体育",
