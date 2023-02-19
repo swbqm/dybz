@@ -1,10 +1,10 @@
 //大聪明友情提醒：本接口中的网络资源均来自于网络和各位互联网大佬的仓库，经各种整合而成，只为方便小白使用，如有冒犯请联系删除
-//关注公众号【应用多多】回复“接口”，获取最新接口
+//关注公众号【大眼宝藏】回复“接口”，获取最新接口
 {
   "sites": [
     {
       "key":"js豆瓣",
-      "name":"🏮公众号：多多应用汇，长期维护免费接口，切勿贩卖🏮",
+      "name":"🏮公众号：大眼宝藏，长期维护免费接口，切勿贩卖🏮",
       "type":3,
       "api":"https://jihulab.com/duomv/duo/-/raw/main/js/drpymin.js",
       "ext":"https://jihulab.com/duomv/duo/-/raw/main/js/douban.js",
@@ -42,45 +42,6 @@
       "ext": "https://yydsys.top/duo/Bili/bili.json"
     },	
     {
-      "key": "短视频聚合",
-      "name": "📱短视频聚合",
-      "type": 3,
-      "api": "csp_XYQBiu",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "https://yydsys.top/duo/json/%E7%9F%AD%E8%A7%86%E9%A2%91%E8%81%9A%E5%90%88.json"
-    },
-    {
-      "key": "csp_Yj1211",
-      "name": "👑直播合集",
-      "type": 3,
-      "api": "csp_Yj1211",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "T4直播转点播",
-      "name": "📺︎电视点播",
-      "type": 4,
-      "api": "http://120.53.102.254/live?url=aHR0cDovL2hvbWUuanVuZGllLnRvcDo4MS9yYXkvdHZsaXZlLnR4dA",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1
-    },	
-	{
-      "key": "csp_YQKAPP",
-      "name": "👨‍👩‍👧‍👦一起看TV",
-      "type": 3,
-      "api": "csp_YQKAPP",
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://api-tx.shumaxc.xyz"
-    },
-    {
       "key": "csp_Paper",
       "name": "🔖小纸条①",
       "type": 3,
@@ -112,15 +73,6 @@
       "filterable": 1,
 	  "m3u8ads": "wan.51img1.com",
 	  "ext": "https://www.bulei.cc"
-    },
-	{
-      "key": "csp_app_源头",
-      "name": "🐈肥猫影院",
-      "type": 1,
-      "api": "http://我是.肥猫.love:63/api.php/provide/vod/?ac=list",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
     },	
 	{
       "key": "csp_AppTT",
@@ -132,16 +84,6 @@
       "filterable": 1,
       "ext": "http://103.239.101.244:6677$$$U1JLI2UlNFVZdFUjS2lFbyp2c1BxcHIwY0M0YnhBUVc=$$$bzZzWW1tKng1aG4jcmNDdA=="
     },
-	{
-	  "key":"YQ_jk",
-	  "name":"🐳极客影视",
-	  "type":3,
-	  "api":"csp_XYQHiker",
-	  "searchable":1,
-	  "quickSearch":1,
-	  "filterable":1,
-	  "ext":"https://yydsys.top/duo/json/jike.json"
-	},
     {
       "key": "csp_xBPQ_qiyou",
       "name": "🎖奇优影院",
@@ -162,59 +104,6 @@
       "filterable": 1,
       "ext": "https://yydsys.top/duo/json/Nmys.json"
     },	
-    {
-      "key": "csp_Yht",
-      "name": "🌷荷塘影院",
-      "type": 3,
-      "api": "csp_Yht",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://yehetang.cc"
-    },		
-	{
-      "key": "Upyunso",
-      "name": "🌤️4K云搜",
-      "type": 3,
-      "api": "csp_UpYun",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-	  "changeable": 0,
-      "ext": "https://yydsys.top/duo/ali/token.txt"
-    },
-    {
-      "key": "Alips",
-      "name": "📀4K盘搜",
-      "type": 3,
-      "api": "csp_PanSou",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-	  "changeable": 0,
-      "ext": "https://yydsys.top/duo/ali/token.txt"
-    },
-    {
-      "key": "Yisou",
-      "name": "🎯4K易搜",
-      "type": 3,
-      "api": "csp_YiSo",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-	  "changeable": 0,
-      "ext": "https://yydsys.top/duo/ali/token.txt"
-    },
-    {
-      "key": "Zhaozy",
-      "name": "🔍4K找资源",
-      "type": 3,
-      "api": "csp_Zhaozy",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://yydsys.top/duo/ali/token.txt$$$yingshi$$$abcd1234"
-    },
     {
       "key": "dr_厂长资源",
       "name": "🏘️厂长(JS)",
