@@ -1,4 +1,4 @@
-//大聪明友情提醒：本接口中的网络资源均来自于网络和各位互联网大佬的仓库，经各种整合而成，只为方便小白使用，如有冒犯请联系删除
+//友情提醒：本接口中的网络资源均来自于网络和各位互联网大佬的仓库，经各种整合而成，只为方便小白使用，如有冒犯请联系删除
 //关注公众号【大眼宝藏】回复“接口”，获取最新接口
 {
   "sites": [
@@ -13,50 +13,18 @@
       "filterable": 1
     },	
     {
-      "key": "csp_Alist1",
-      "name": "🗂Alist合集",
+      "key": "小苹果",
+      "name": "公众号：大眼宝藏2023-02-19更新",
       "type": 3,
-      "api": "csp_AList",
+      "api": "csp_LiteApple",
+	  "playerType": 1,
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://yydsys.top/duo/json/Alist1.json"
+      "filterable": 1
     },
-    {
-      "key": "csp_Bili",
-      "name": "🅱️哔哩合集",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://yydsys.top/duo/Bili/bili.json"
-    },	
-    {
-      "key": "csp_Paper",
-      "name": "🔖小纸条①",
-      "type": 3,
-      "api": "csp_Paper",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-	  "changeable": 0,
-      "ext": "https://yydsys.top/duo/ali/token.txt"
-    },	
-    {
-      "key": "小纸条2",
-      "name": "🔖小纸条②",
-      "type": 3,
-      "api": "csp_Gitcafe",
-      "searchable": 1,
-      "filterable": 1,
-      "switchable": 0,
-      "ext": "https://yydsys.top/duo/ali/token.txt",
-      "jar": "https://yydsys.top/duo/jar/xzt.jar"
-    },	
    {
       "key": "csp_AppBuLei",
-      "name": "⚡️布蕾影视",
+      "name": "布蕾影视",
       "type": 3,
       "api": "csp_BuLei",
       "searchable": 1,
@@ -65,9 +33,57 @@
 	  "m3u8ads": "wan.51img1.com",
 	  "ext": "https://www.bulei.cc"
     },	
+    {
+      "key": "csp_555电影",
+      "name": "五五五电影",
+      "type": 3,
+      "api": "csp_Ys555",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://www.555dyy1.com"
+    },
+    {
+      "key": "csp_Kunyu77",
+      "name": "酷云七七",
+      "type": 3,
+      "api": "csp_Kunyu77",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "csp_XYQH野马",
+      "name": "️野马影视",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://yydsys.top/duo/json/野马.json"
+    },
+    {
+      "key": "csp_DiDuan",
+      "name": "低端影视",
+      "type": 3,
+      "api": "csp_Ddrk",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "drpy_js_ddys",
+      "name": "低端影院",
+      "type": 3,
+      "api": "https://yydsys.top/duo/js/libmain.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://yydsys.top/duo/js/ddys.js"
+    },
 	{
       "key": "csp_AppTT",
-      "name": "🗺️图图影视",
+      "name": "图图影视",
       "type": 3,
       "api": "csp_AppTT2",
       "searchable": 1,
@@ -77,17 +93,17 @@
     },
     {
       "key": "csp_xBPQ_qiyou",
-      "name": "🎖奇优影院",
+      "name": "奇优影院",
       "type": 3,
       "api": "csp_xBPQ",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://yydsys.top/duo/json/奇优影院.json"
-    },	
+    },
     {
       "key": "csp_Nmys",
-      "name": "👨‍🌾农民影视",
+      "name": "农民影视",
       "type": 3,
       "api": "csp_Nmys",
       "searchable": 1,
@@ -97,7 +113,7 @@
     },	
     {
       "key": "csp_CZSPP",
-      "name": "🏭️厂长(SP)",
+      "name": "厂长影视",
       "type": 3,
       "api": "csp_Czsapp",
 	  "playerType": 2,
@@ -107,7 +123,7 @@
     },	
     {
       "key": "csp_xBPQ_乐猪影视",
-      "name": "🐷乐猪影视",
+      "name": "乐猪影视",
       "type": 3,
       "api": "csp_xBPQ",
       "searchable": 1,
@@ -117,37 +133,17 @@
     },	
     {
       "key": "js_大师兄",
-      "name": "🐵师兄影视",
+      "name": "大师兄影视",
       "type": 3,
       "api": "https://jihulab.com/duomv/duo/-/raw/main/js/drpymin.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://yydsys.top/duo/js/大师兄影视.js"
-    },
-    {
-      "key": "csp_XYQH野马",
-      "name": "️🦄野马影视",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://yydsys.top/duo/json/野马.json"
     },	
     {
-      "key": "小苹果",
-      "name": "🍏小苹果",
-      "type": 3,
-      "api": "csp_LiteApple",
-	  "playerType": 1,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },		
-    {
       "key": "Kuaikan",
-      "name": "🦋快看影视",
+      "name": "快看影视",
       "type": 3,
       "api": "csp_Kuaikan",
       "searchable": 1,
@@ -156,7 +152,7 @@
     },	
     {
       "key": "Tian",
-      "name": "🎨天天影视",
+      "name": "天天影视",
       "type": 3,
       "api": "csp_Dora",
       "searchable": 1,
@@ -166,7 +162,7 @@
     },
     {
       "key": "js_电影先生",
-      "name": "🤵电影先生",
+      "name": "电影先生",
       "type": 3,
       "api": "https://jihulab.com/duomv/duo/-/raw/main/js/drpymin.js",
       "searchable": 1,
@@ -176,36 +172,17 @@
     },		
     {
       "key": "csp_xBPQ_饭团",
-      "name": "🍙饭团影视",
+      "name": "饭团影视",
       "type": 3,
       "api": "csp_xBPQ",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
       "ext": "https://yydsys.top/duo/json/饭团HD.json"
-    },
-    {
-      "key": "csp_DiDuan",
-      "name": "🐞低端(SP)",
-      "type": 3,
-      "api": "csp_Ddrk",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
-      "key": "drpy_js_ddys",
-      "name": "🐞低端(JS)",
-      "type": 3,
-      "api": "https://yydsys.top/duo/js/libmain.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://yydsys.top/duo/js/ddys.js"
-    },
+    },	
     {
       "key": "csp_Lgyy",
-      "name": "🧿蓝光影院",
+      "name": "蓝光影院",
       "type": 3,
       "api": "csp_Lgyy",
       "searchable": 1,
@@ -215,7 +192,7 @@
     },
     {
       "key": "csp_biubiu_voflix",
-      "name": "🧿voflix",
+      "name": "voflix",
       "type": 3,
       "api": "csp_xBPQ",
       "searchable": 1,
@@ -224,17 +201,8 @@
       "ext": "https://yydsys.top/duo/json/voflix.json"
     },		
     {
-      "key": "csp_Kunyu77",
-      "name": "🍁酷云七七",
-      "type": 3,
-      "api": "csp_Kunyu77",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "360_spider",
-      "name": "💫360影视",
+      "name": "360影视",
       "type": 3,
       "api": "csp_SP360",
       "searchable": 1,
@@ -243,18 +211,8 @@
 	   "changeable": 0
     },
     {
-      "key": "csp_555电影",
-      "name": "🐾三五电影",
-      "type": 3,
-      "api": "csp_Ys555",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://www.555dyy1.com"
-    },
-    {
       "key": "SPQQ",
-      "name": "🐧腾讯(官)",
+      "name": "腾讯(官)",
       "type": 3,
       "api": "csp_QQ",
       "searchable": 1,
@@ -264,7 +222,7 @@
     },
     {
       "key": "SPIQY",
-      "name": "🥝爱奇艺(官)",
+      "name": "爱奇艺(官)",
       "type": 3,
       "api": "csp_IQIYI",
       "searchable": 1,
@@ -274,7 +232,7 @@
     },
     {
       "key": "MGT",
-      "name": "🥭芒果(官)",
+      "name": "芒果(官)",
       "type": 3,
       "api": "csp_Mgtv",
       "searchable": 1,
@@ -284,7 +242,7 @@
     },
     {
       "key": "youku",
-      "name": "👑优酷(官)",
+      "name": "优酷(官)",
       "type": 0,
       "api": "https://www.zycaiji.net:7788/api.php/provide/vod/from/youku/at/xml/",
       "searchable": 0,
@@ -318,7 +276,7 @@
     },
     {
       "key": "csp_xBPQ_电影天堂",
-      "name": "🏖电影天堂",
+      "name": "电影天堂",
       "type": 3,
       "api": "csp_xBPQ",
       "searchable": 1,
@@ -328,7 +286,7 @@
     },
     {
       "key": "csp_Bd",
-      "name": "💥哔嘀(SP)",
+      "name": "哔嘀影视",
       "type": 3,
       "api": "csp_Bdys01",
       "searchable": 1,
@@ -337,7 +295,7 @@
     },
     {
       "key": "csp_Btwtoo",
-      "name": "✌两个BT",
+      "name": "两个BT",
       "type": 3,
       "api": "csp_Bttwoo",
       "searchable": 1,
@@ -346,7 +304,7 @@
     },
 	{
       "key":"js路漫漫",
-      "name":"👩‍🎨路漫漫",
+      "name":"路漫动漫",
       "type":3,
       "api":"https://jihulab.com/duomv/duo/-/raw/main/js/drpymin.js",
       "ext":"https://jihulab.com/duomv/duo/-/raw/main/js/%E8%B7%AF%E6%BC%AB%E6%BC%AB.js",
@@ -366,7 +324,7 @@
     },
     {
       "key": "dr_88看球",
-      "name": "🏀88看球",
+      "name": "88看球",
       "type": 3,
       "api": "https://jihulab.com/duomv/duo/-/raw/main/js/drpymin.js",
       "searchable": 0,
@@ -376,13 +334,55 @@
     },	
     {
       "key": "drpy_js_抓饭体育",
-      "name": "⚽抓饭体育",
+      "name": "抓饭体育",
       "type": 3,
       "api": "https://jihulab.com/duomv/duo/-/raw/main/js/drpymin.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
       "ext": "https://yydsys.top/duo/js/抓饭体育.js"
+    },
+    {
+      "key": "csp_Alist1",
+      "name": "Alist合集",
+      "type": 3,
+      "api": "csp_AList",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://yydsys.top/duo/json/Alist1.json"
+    },	
+    {
+      "key": "csp_Paper",
+      "name": "小纸条一",
+      "type": 3,
+      "api": "csp_Paper",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+	  "changeable": 0,
+      "ext": "https://yydsys.top/duo/ali/token.txt"
+    },	
+    {
+      "key": "小纸条2",
+      "name": "小纸条二",
+      "type": 3,
+      "api": "csp_Gitcafe",
+      "searchable": 1,
+      "filterable": 1,
+      "switchable": 0,
+      "ext": "https://yydsys.top/duo/ali/token.txt",
+      "jar": "https://yydsys.top/duo/jar/xzt.jar"
+    },	
+    {
+      "key": "csp_Bili",
+      "name": "🅱️哔哩合集",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://yydsys.top/duo/Bili/bili.json"
     },
     {
       "key": "js_B站精简",
