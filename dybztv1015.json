@@ -375,7 +375,7 @@
     },
     {
       "key": "csp_XPath_鹅直播",
-      "name": "⚽企鹅体育",
+      "name": "企鹅直播",
       "type": 3,
       "api": "csp_XPath",
       "searchable": 0,
@@ -402,26 +402,6 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext": "https://yydsys.top/duo/js/抓饭体育.js"
-    },
-    {
-      "key": "py_dashan",
-      "name": "💋多多搭讪",
-      "type": 3,
-      "api": "py_dashan",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://yydsys.top/duo/Bili/搭讪.py"
-    },
-    {
-      "key": "py_dapei",
-      "name": "💃多多搭配",
-      "type": 3,
-      "api": "py_dapei",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://yydsys.top/duo/Bili/搭配.py"
     },
     {
       "key": "js_B站精简",
