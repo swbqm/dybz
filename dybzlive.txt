@@ -1,6 +1,6 @@
 🇨🇳｜大眼宝箱,#genre#
-大眼TV,http://52bsj.vip:81/api/v3/file/get/61500/dybzlive.mp4?sign=INMtI7iFzHokDp-dQGLm2kRaN5txEG8VV0_37Cgw5MU%3D%3A0
-大眼TV,https://share.nite07.com/api/v3/file/source/29379/dybzlive.mp4?sign=XTRkWlORs9D5KntkASRVehfu2nLeH6_DjL_Cg430z-E%3D%3A0
+大眼TV,http://52bsj.vip:81/api/v3/file/get/91618/%E5%A4%A7%E7%9C%BCTV1.mp4?sign=-EN1o1EoTqi3ke_BRaiG29Eap5OYqBOynMca9vvwwSU%3D%3A0
+大眼TV,http://52bsj.vip:81/api/v3/file/get/91619/%E5%A4%A7%E7%9C%BCTV2.mp4?sign=ztSfxcdBXum5pemMUaOP1hEl-jeo-DkbWs8nyfANqfg%3D%3A0
 西藏卫视,https://tv.vtibet.cn/live/EfgSmE4jCTBtvchannel3.m3u8
 影视文化,https://tv.vtibet.cn/live/FYeIdVzzCTBtvchannel2.m3u8
 经典功夫台,https://cn-hbyc2-dx-live-01.bilivideo.com/live-bvc/545768/live_179302204_68184269.m3u8
