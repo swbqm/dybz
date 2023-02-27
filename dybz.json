@@ -1,10 +1,11 @@
 //友情提醒：本接口中的网络资源均来自于网络和各位互联网大佬的仓库，经各种整合而成，只为方便小白使用，如有冒犯请联系删除
 //关注公众号【大眼宝箱】回复“接口”，获取最新接口；关注公众号【大眼宝库】9折起充话费，电费，燃气费各种超低折扣会员
 {
-  "sites": [
-   {
+  "sites": [	
+    {"key":"LiteApple","name":"公众号：大眼宝箱2023-02-27更新","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
+    {
       "key": "csp_AppBuLei",
-      "name": "公众号：大眼宝箱2023-02-27更新",
+      "name": "布蕾影视",
       "type": 3,
       "api": "csp_BuLei",
       "searchable": 1,
@@ -12,8 +13,7 @@
       "filterable": 1,
 	  "m3u8ads": "wan.51img1.com",
 	  "ext": "https://www.bulei.cc"
-    },	
-    {"key":"LiteApple","name":"小苹果影视","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
+    },
     {
       "key": "csp_555电影",
       "name": "555电影",
