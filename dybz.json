@@ -2,7 +2,8 @@
 //关注公众号【大眼宝箱】回复“接口”，获取最新接口；关注公众号【大眼宝库】9折起充话费，电费，燃气费各种超低折扣会员
 {
   "sites": [	
-          {"key":"drpy_js_酷云七七","name":"公众号：大眼宝箱2023-03-26更新","type":3,"api":"https://jihulab.com/duomv/duo/-/raw/main/js/drpymin.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://yydsys.top/duo/js/77.js"},
+          {"key":"LiteApple","name":"公众号：大眼宝箱2023-03-26更新","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
+	  {"key":"drpy_js_酷云七七","name":"酷云七七","type":3,"api":"https://jihulab.com/duomv/duo/-/raw/main/js/drpymin.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://yydsys.top/duo/js/77.js"},
 	  {
       "key": "csp_xBPQ_qiyou",
       "name": "奇优影院",
@@ -23,7 +24,6 @@
       "quickSearch": 1,
       "filterable": 1
     },	
-	  {"key":"LiteApple","name":"小苹果影视","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
     {
       "key": "csp_AppBuLei",
       "name": "布蕾影视",
