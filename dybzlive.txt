@@ -1,8 +1,6 @@
 大眼宝箱,#genre#
 大眼TV,http://52bsj.vip:81/api/v3/file/get/91618/%E5%A4%A7%E7%9C%BCTV1.mp4?sign=-EN1o1EoTqi3ke_BRaiG29Eap5OYqBOynMca9vvwwSU%3D%3A0
 大眼TV,http://52bsj.vip:81/api/v3/file/get/91619/%E5%A4%A7%E7%9C%BCTV2.mp4?sign=ztSfxcdBXum5pemMUaOP1hEl-jeo-DkbWs8nyfANqfg%3D%3A0
-抖音小姐姐,http://epg.112114.xyz/douyu/8901218
-抖音大姐姐,http://epg.112114.xyz/douyu/8759139
 
 
 央视频道_,#genre#
