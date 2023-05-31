@@ -1,9 +1,7 @@
-大眼宝箱,#genre#
+央视频道_,#genre#
 大眼TV,http://52bsj.vip:81/api/v3/file/get/91618/%E5%A4%A7%E7%9C%BCTV1.mp4?sign=-EN1o1EoTqi3ke_BRaiG29Eap5OYqBOynMca9vvwwSU%3D%3A0
 大眼TV,http://52bsj.vip:81/api/v3/file/get/91619/%E5%A4%A7%E7%9C%BCTV2.mp4?sign=ztSfxcdBXum5pemMUaOP1hEl-jeo-DkbWs8nyfANqfg%3D%3A0
 
-
-央视频道_,#genre#
 CCTV1,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226231/index.m3u8
 CCTV2,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8
 CCTV3,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226397/index.m3u8
