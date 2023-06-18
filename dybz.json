@@ -13,8 +13,6 @@
 {"key":"多米蓝光","name":"🌽️┃多米┃影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://v.dmdh.top/api.php/app/"},
 {"key":"csp_DuoX","name":"💢多线┃APP","type":3,"api":"csp_DuoX","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Xinsj","name":"🐼视觉┃直连","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.6080yy3.com/"},
-{"key":"棉花影视","name":"棉花影视","type":3,"api":"csp_MianHua","searchable":1,"playerType":2,"quickSearch":1,"filterable":0,"ext":"https://api.haokantj.com"},
-{"key":"Lezhu_spider","name":"乐猪影视","api":"csp_Lezhu","type":3,"filterable":1,"playerType":2,"quickSearch":1,"searchable":1,"ext":""},
 {"key":"csp_Kunyu77","name":"🌈┃七七┃影视","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"YQK_spider","name":"🙆┃一起┃电视","api":"csp_YQKAPP","type":3,"filterable":1,"playerType":2,"quickSearch":1,"searchable":1,"playerType": 2,"ext": "https://hk-api-cf.yqk5659.com"},
 //{"key":"csp_BuLei","name":"💢布雷┃直连","type":3,"api":"csp_BuLei","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://kan.bulei.cc/$$$auto$$$sdlw1111$$$qqaa1122"},
